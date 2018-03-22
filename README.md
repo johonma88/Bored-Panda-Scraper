@@ -18,6 +18,4 @@ See the Magic, please go to Heroku:
 
 `express`: builds server-side routes and functions
 
-`morgan`: logs server-side requests, helping debugging
-
 `express-handlebars`: a powerful front-end builder without requiring multiple html pages
