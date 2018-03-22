@@ -5,7 +5,6 @@ var method = require("method-override");
 var body = require("body-parser");
 var exphbs = require("express-handlebars");
 var mongoose = require("mongoose");
-var logger = require("morgan");
 var cheerio = require("cheerio");
 var request = require("request");
 
@@ -39,7 +38,6 @@ var port = process.env.PORT || 3000;
 
 // app set-ups
 
-app.use(logger("dev"));
 app.use(express.static("public"));
 app.use(body.urlencoded({extended: false}));
 app.use(method("_method"));
