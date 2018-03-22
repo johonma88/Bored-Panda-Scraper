@@ -1,0 +1,30 @@
+{
+  "name": "a14-news-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akirasunny/a14-news-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akirasunny/a14-news-scraper/issues"
+  },
+  "homepage": "https://github.com/akirasunny/a14-news-scraper#readme",
+  "dependencies": {
+    "body-parser": "^1.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.9",
+    "mongoose": "^4.11.11",
+    "morgan": "^1.8.2",
+    "request": "^2.81.0",
+    "sha1": "^1.1.1"
+  }
+}
