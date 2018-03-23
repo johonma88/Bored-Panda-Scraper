@@ -6,6 +6,18 @@
 body {
 	background-color: 	#666;
 }
+.post{
+	text-align: center;
+}
+
+summary{
+	color: white;
+	width: 80%;
+	text-align: center;
+	margin-right: 50px;
+	margin-left: 50px;
+	
+}
 
 button {
 	border: 0;
