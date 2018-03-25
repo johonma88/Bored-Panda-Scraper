@@ -6,7 +6,7 @@ The Bored Panda Scraper is a scraper app which captures the title, summary and i
 
 See the Magic, please go to Heroku:
 
-
+https://jh-bored-panda-scraper.herokuapp.com/
 
 ### Key Dependencies
 
